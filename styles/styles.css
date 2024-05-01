@@ -48,6 +48,8 @@
     width: 60%;
     height: 240px;
     margin: auto;
+    margin-bottom: 20px;
+    margin-top: 10px;
 }
 .text-red {
     color: red;
